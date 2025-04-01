@@ -1,0 +1,1 @@
+Aquest és el text de prova per veure que el mètode pot llegir fitxers

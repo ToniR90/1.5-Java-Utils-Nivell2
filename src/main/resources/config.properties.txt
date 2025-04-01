@@ -1,0 +1,2 @@
+directory.to.read=src/main/resources
+output.file.name=output.txt
